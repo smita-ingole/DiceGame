@@ -1,0 +1,39 @@
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;
+}
+
+body {
+    background-color: #168cdb;
+}
+
+h1 {
+    margin: 30px;
+    font-family: 'Rampart One', cursive;
+    text-shadow: 2px 0 #232931;
+    font-size: 6rem;
+    color: #0f060a;
+}
+
+p {
+    font-size: 2rem;
+    color: #0f060a;
+    font-family: 'Architects Daughter', cursive;
+}
+
+img {
+    width: 80%;
+}
+
+footer {
+    margin-top: 5%;
+    color: #EEEEEE;
+    text-align: center;
+    font-family: 'Architects Daughter', cursive;
+}
